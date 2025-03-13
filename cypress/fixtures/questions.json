@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "question": "What is React?",
+      "answers": [
+        "A JavaScript library",
+        "A programming language",
+        "A CSS framework",
+        "An IDE"
+      ],
+      "correct": "A JavaScript library"
+    },
+    {
+      "id": 2,
+      "question": "What does JSX stand for?",
+      "answers": [
+        "JavaScript XML",
+        "JavaScript Extension",
+        "JSON XML",
+        "Java XML"
+      ],
+      "correct": "JavaScript XML"
+    }
+  ]
+  
