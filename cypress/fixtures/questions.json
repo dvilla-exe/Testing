@@ -1,25 +1,21 @@
 [
     {
-      "id": 1,
       "question": "What is React?",
       "answers": [
-        "A JavaScript library",
-        "A programming language",
-        "A CSS framework",
-        "An IDE"
-      ],
-      "correct": "A JavaScript library"
+        { "text": "A JavaScript library", "isCorrect": true },
+        { "text": "A programming language", "isCorrect": false },
+        { "text": "A CSS framework", "isCorrect": false },
+        { "text": "An IDE", "isCorrect": false }
+      ]
     },
     {
-      "id": 2,
       "question": "What does JSX stand for?",
       "answers": [
-        "JavaScript XML",
-        "JavaScript Extension",
-        "JSON XML",
-        "Java XML"
-      ],
-      "correct": "JavaScript XML"
+        { "text": "JavaScript XML", "isCorrect": true },
+        { "text": "JavaScript Extension", "isCorrect": false },
+        { "text": "JSON XML", "isCorrect": false },
+        { "text": "Java XML", "isCorrect": false }
+      ]
     }
-  ]
+]
   

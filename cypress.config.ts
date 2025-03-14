@@ -8,7 +8,7 @@ export default defineConfig({
     },
   },
   e2e: {
-    baseUrl: "http://localhost:5173", // Vite's default dev server port
+    baseUrl: "http://localhost:3001", // Vite's default dev server port
     setupNodeEvents(on, config) {
       // Implement node event listeners here
     },
